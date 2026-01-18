@@ -6,7 +6,7 @@ public class example_1 {
 	static String pm = "modi";
 	static String c;
 	
-	public static void e2(){
+	public static  void e2(){
 		System.out.println(Variable_to_acess_at_another_class_withexample1.name);
 		System.out.println(Variable_to_acess_at_another_class_withexample1.age);
 	}
